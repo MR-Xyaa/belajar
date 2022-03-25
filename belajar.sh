@@ -1,5 +1,7 @@
 #!/bin/sh
 
+clear
+
 # -----[ WELLCOME ]-----
 figlet MENGINSTALL PAKET... | lolcat
 sleep 5
