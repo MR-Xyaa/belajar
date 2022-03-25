@@ -10,7 +10,8 @@ def mengetik(s):
 mengetik('hallo wellcome to my github MR-Xyaa.')
 mengetik('●●●●●●●●●●●●●●●●●●●●')
 mengetik('please wait...')
-clear
+
+
 mengetik('MENDOWLOAD DATA1...')
 mengetik('SUKSES')
 mengetik('MENDOWNLOAD DATA2...')
@@ -20,7 +21,6 @@ mengetik('SUKSES')
 mengetik('TUNGGU SEBENTAR...')
 
            #profil
-     clear
 
 mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●]')
 mengetik('_■       [•]Author____: MR-Xyaa                                            ')    
