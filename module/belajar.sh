@@ -37,7 +37,7 @@ sleep 5
 clear
 toilet -f big -F gay My Profil | lolcat
 echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
-echo |■       [•]Author____: MR-Xyaa                                                    | lolcat{c}
-echo |■       [•]Github____: https://github.com/MR-Xyaa             | lolcat{c}
-echo |■       [•]Facebook__: Xyaa Xyaa                                                 | lolcat{c}
+echo ■■       [•]Author____: MR-Xyaa                                                    | lolcat
+echo ■■       [•]Github____: https://github.com/MR-Xyaa             | lolcat
+echo ■■       [•]Facebook__: Xyaa Xyaa                                                 | lolcat
 echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
