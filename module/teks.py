@@ -6,5 +6,7 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
 #kecepatan mengetik
-        time.sleep(random.random() * 0.2)
+        time.sleep(random.random() * 0.1)
 mengetik('hallo wellcome to my github MR-Xyaa.')
+mengetik('oke.')
+mengetik('BANGSAT KOE ANJING YAH.')
