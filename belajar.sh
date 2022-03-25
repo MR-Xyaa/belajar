@@ -1,11 +1,4 @@
-import os
-try:
-    import time
-    import random
-    import re
-
-except ImportError:
-    os.system("pip install re")
+#!/bin/sh
 
 # -----[ Color ]-----
 m = '\x1b[1;31m'
