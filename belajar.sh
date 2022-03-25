@@ -8,6 +8,7 @@ sleep 5
 clear
 pkg update
 pkg upgrade
+pkg install sl
 clear
 echo SABAR YA GESS YA..... | lolcat
 sleep 5
@@ -31,17 +32,24 @@ sleep 5
 #-------------[memuat]----------
 echo MEMUAT..... | lolcat
 sleep 5
-
+sl
+sleep 5
 #------------[ LOADING ]--------
 clear
-toilet -f big -F gay My Profil | lolcat
-echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
-echo  ◇  [•]Author____: MR-Xyaa                           ◇ | lolcat
-echo  ◇  [•]Github____: https://github.com/MR-Xyaa        ◇ | lolcat
-echo  ◇  [•]Facebook__: Xyaa Xyaa                         ◇ | lolcat
-echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
 
-# -------------------[ Lanjutin ]-----------------------
+echo ┌───────────────────────────────────────────────────────────────┐ | lolcat
+echo │                                                               │ | lolcat
+echo │   ███╗   ███╗██████╗      ██╗  ██╗██╗   ██╗ █████╗  █████╗    │ | lolcat
+echo │   ████╗ ████║██╔══██╗     ╚██╗██╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗   │ | lolcat
+echo │   ██╔████╔██║██████╔╝█████╗╚███╔╝  ╚████╔╝ ███████║███████║   │ | lolcat
+echo │   ██║╚██╔╝██║██╔══██╗╚════╝██╔██╗   ╚██╔╝  ██╔══██║██╔══██║   │ | lolcat
+echo │   ██║ ╚═╝ ██║██║  ██║     ██╔╝ ██╗   ██║   ██║  ██║██║  ██║   │ | lolcat
+echo │   ╚═╝     ╚═╝╚═╝  ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   │ | lolcat
+echo │                                         IBNU UMAR SYAID    │ | lolcat
+echo └───────────────────────────────────────────────────────────────┘ | lolcat
 
-
-
+echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
+echo  ◇  [•]Author____: MR-Xyaa                                                   ◇ | lolcat
+echo  ◇  [•]Github____: https://github.com/MR-Xyaa  .          ◇ | lolcat
+echo  ◇  [•]Facebook__: Xyaa Xyaa                                                ◇ | lolcat
+echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
