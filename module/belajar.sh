@@ -59,13 +59,10 @@ C='\x1b[1;36m'
 
 D='\x1b[0m'
 
-# Diatas adalah sekumpulan kode warna yang digunakan didalam script ini
-
 function Percent(){
 
-    message="$1" #($1) artinya untuk memasukan data ke parameter ke 1
-
-    max=$2 #($2) untuk parameter ke 2 dan dan selanjutnya
+    message="$1" #($1) 
+    max=$2 #($2) 
 
     #make loop
 
@@ -73,21 +70,12 @@ function Percent(){
 
         i=1
 
-        #-le (less than) atau kurang dari
-
-        #0 kurang dari maksimal (100)
-
-        #maka pernyataan akan di jalankan dari angka 1-100
-
+       
         while [ $i -le $max ]; do
 
             echo -ne "\r${G}[✓]${C} $message ${G}$i${D} %"
 
-            #jika i nilainya sama dengan 100 atau batas maksimal maka artinya metode / fungsi Perce             >
-
-            #Percent "Loading..." 100
-
-            #akan terus di ulang
+            
 
             if [ $i -eq 100 ]; then
 
