@@ -8,10 +8,7 @@ def mengetik(s):
         time.sleep(random.random() * 0.5)
 mengetik('hallo wellcome to my github MR-Xyaa.')
 mengetik('apa lu anjing.')
-
 mengetik('please wait...')
-
-        
 mengetik('MENDOWLOAD DATA1...')
 mengetik('SUKSES.')
 mengetik('MENDOWNLOAD DATA2...')
@@ -19,19 +16,12 @@ mengetik('SUKSES.')
 mengetik('MENDOWNLOAD DATA3...')
 mengetik('SUKSES.')
 mengetik('TUNGGU SEBENTAR...')
-
-   
-
-        
 mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●]')
 mengetik('_■   [•]Author____: MR-Xyaa ')    
 mengetik('_■   [•]Github____: https://github.com/MR-Xyaa')    
 mengetik('_■   [•]Facebook__: Xyaa Xyaab')       
 mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●]') 
 
-
-
-             
 mengetik('GW MASIH BELAJAR ANJING')
 mengetik('MR-Xyaa')
 
