@@ -11,35 +11,37 @@ pkg upgrade
 clear
 echo SABAR YA GESS YA..... | lolcat
 sleep 5
-echo mengestrak file....
+echo mengestrak file.... | lolcat
 sleep 3
-echo mulai menyusun.....
+echo mulai menyusun..... | lolcat
 sleep 5
 clear
 figlet selesai | lolcat
 sleep 3
 clear
-# -------[ loading1 ]----------
+# -------[ xnxx ]----------
 echo www.xnxx.com | lolcat
-clear
 sleep 5
+#------------[pornhub]------------
 echo www.pornhub.com | lolcat
-clear
 sleep 5
+#-------------[BANGBROSS]-------
 echo www.BANGBROSS.com | lolcat
-clear
 sleep 5
+#-------------[memuat]----------
 echo MEMUAT..... | lolcat
 sleep 5
+
 #------------[ LOADING ]--------
+clear
 toilet -f big -F gay My Profil | lolcat
 echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
-echo  ||   [▪]Author : MR-Xyaa                            || 
-echo  ||   [▪]Github : https://github.com/MR-Xyaa         ||
-echo  ||   [▪]Facebook :Xyaa Xyaa                         ||
+echo  ◇  [•]Author____: MR-Xyaa                           ◇ | lolcat
+echo  ◇  [•]Github____: https://github.com/MR-Xyaa        ◇ | lolcat
+echo  ◇  [•]Facebook__: Xyaa Xyaa                         ◇ | lolcat
 echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
 
-# -------------------[ clear ]-----------------------
+# -------------------[ Lanjutin ]-----------------------
 
 
 
