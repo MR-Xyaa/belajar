@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/system/xbin/bash
+
 
 cd module
 
