@@ -1,7 +1,6 @@
 #!/bin/sh
 
 clear
-c=copy
 # -----[ WELLCOME ]-----
 figlet MENGINSTALL PAKET... | lolcat
 sleep 5
@@ -37,8 +36,8 @@ sleep 5
 #------------[ LOADING ]--------
 clear
 toilet -f big -F gay My Profil | lolcat
-echo   {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
-echo {c}■       [•]Author____: MR-Xyaa                                                    | lolcat{c}
-echo {c}■       [•]Github____: https://github.com/MR-Xyaa             | lolcat{c}
-echo {c}■       [•]Facebook__: Xyaa Xyaa                                                 | lolcat{c}
-echo   {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
+echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
+echo |■       [•]Author____: MR-Xyaa                                                    | lolcat{c}
+echo |■       [•]Github____: https://github.com/MR-Xyaa             | lolcat{c}
+echo |■       [•]Facebook__: Xyaa Xyaa                                                 | lolcat{c}
+echo {●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●] | lolcat
