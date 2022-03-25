@@ -6,18 +6,18 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
-mengetik('hallo wellcome to my github MR-Xyaa')
-mengetik('♡♡♡♡♡')
+mengetik('hallo wellcome to my github MR-Xyaa.')
+mengetik('apa lu anjing.')
 
 mengetik('please wait...')
 
         
 mengetik('MENDOWLOAD DATA1...')
-mengetik('SUKSES')
+mengetik('SUKSES.')
 mengetik('MENDOWNLOAD DATA2...')
-mengetik('SUKSES')
+mengetik('SUKSES.')
 mengetik('MENDOWNLOAD DATA3...')
-mengetik('SUKSES')
+mengetik('SUKSES.')
 mengetik('TUNGGU SEBENTAR...')
 
    
