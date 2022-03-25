@@ -4,6 +4,6 @@ cd module
 
 clear
 
-python teks.py
+python2 teks.py
 
 sh belajar.sh
