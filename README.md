@@ -1,9 +1,9 @@
 # Install
-<if><code>pkg update && pkg upgrade<code><if>
-<if><code>pkg install python<code><if>
-<if><code>pkg install git<code><if>
+- pkg update && pkg upgrade
+- pkg install python
+- pkg install git
 # Run
-<if><code>git clone https://github.com/MR-Xyaa/belajar<code><if>
-<if><code>cd belajar<code><if>
-<if><code>git pull<code><if>
-<code>sh bljar.sh<code>
+- git clone https://github.com/MR-Xyaa/belajar
+- cd belajar
+- git pull
+- sh bljar.sh
