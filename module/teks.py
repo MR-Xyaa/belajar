@@ -6,7 +6,7 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
 #kecepatan mengetik
-        time.sleep(random.random() * 0.2)
+        time.sleep(random.random() * 0.1)
 mengetik('hallo wellcome to my github MR-Xyaa')
 mengetik('○    ○     ○')
 
@@ -27,7 +27,7 @@ mengetik('TUNGGU SEBENTAR...')
 
    
 #kecepatan mengetik
-        time.sleep(random.random() * 0.3)
+        time.sleep(random.random() * 0.1)
 mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●]')
 mengetik('_■   [•]Author____: MR-Xyaa ')    
 mengetik('_■   [•]Github____: https://github.com/MR-Xyaa')    
@@ -38,4 +38,4 @@ mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪�
 
 
 mengetik('GW MASIH BELAJAR ANJING')
-
+mengetik('MR-Xyaa')
