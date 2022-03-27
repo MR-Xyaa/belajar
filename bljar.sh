@@ -11,4 +11,4 @@ pythom teks2.py
 
 sh belajar.sh
 
-python2 load.py
+bash load.sh
